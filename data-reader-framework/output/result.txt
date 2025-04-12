@@ -1,0 +1,1026 @@
+===== sample.html =====
+Sample HTML This is a sample HTML file.
+===== sample.pdf =====
+Hello PDF
+
+===== sample.xlsx =====
+Name	Age	
+Alice	30.0	
+Bob	25.0	
+
+===== sample.xml =====
+<root><message>Hello XML</message>
+</root>
+
+===== sample.html =====
+Sample HTML This is a sample HTML file.
+===== sample.pdf =====
+Traceability Matrix Report
++1 310 388 93 34 Olympic Blvd, Beverly Hills, CA 90211, USA
+# Objective Issues
+Device / Browser Device / Browser Device / Browser Device / Browser Device / Browser
+Build / Version Build / Version Build / Version Build / Version Build / Version 
+Tester name Tester name Tester name Tester name Tester name
+1 Section 1 of the test cases
+№1
+№2
+№3 Failed Failed Failed Failed Failed
+2 Section 2 of the test cases
+№4
+№5
+№6
+№7 Failed Failed Failed Failed Failed
+3 Section 3 of the test cases Passed Passed Passed Passed Passed
+4 Section 4 of the test cases №8 Passed but Passed but Passed but Passed but Passed but
+5 Section 5 of the test cases Passed Passed Passed Passed Passed
+6 Section 6 of the test cases Unchecked Unchecked Unchecked Unchecked Unchecked
+7 Section 7 of the test cases Unchecked Unchecked Unchecked Unchecked Unchecked
+8 Section 8 of the test cases Unchecked Unchecked Unchecked Unchecked Unchecked
+9 Section 9 of the test cases Unchecked Unchecked Unchecked Unchecked Unchecked
+10 Section 10 of the test cases Unchecked Unchecked Unchecked Unchecked Unchecked
+Checklist
++1 310 388 93 34 Olympic Blvd, Beverly Hills, CA 90211, USA
+# Objective
+Comments 
+/ Issues
+Device / Browser Device / Browser Device / Browser Device / Browser Device / Browser
+Build / Version Build / Version Build / Version Build / Version Build / Version 
+Tester name Tester name Tester name Tester name Tester name
+Section 1 (e.g. Header)
+HDR_001 Summary of the checklist item №1 Passed but [1] Passed but [2] Passed but [3] Passed but [4] Passed but [5]
+HDR_002 Summary of the checklist item
+№2
+№3 Failed [6] Failed [7] Failed [8] Passed but [9] Passed but [10]
+HDR_003 Summary of the checklist item Passed Passed Passed Passed Passed
+HDR_004 Summary of the checklist item Passed Passed Passed Passed Passed
+HDR_005 Summary of the checklist item Passed Passed Passed Passed Passed
+HDR_006 Summary of the checklist item №4 Blocked [11] Blocked [12] Blocked [13] Blocked [14] Unchecked
+HDR_007 Summary of the checklist item Passed Passed Passed Passed Unchecked
+HDR_008 Summary of the checklist item Passed Passed Passed Passed Unchecked
+HDR_009 Summary of the checklist item Passed Passed Passed Passed Unchecked
+HDR_010 Summary of the checklist item Passed Passed Unchecked Passed Unchecked
+HDR_011 Summary of the checklist item
+№5
+Failed [15] Failed [16] Unchecked Failed [17] Unchecked
+HDR_012 Summary of the checklist item
+№6
+Failed [18] Failed [19] Unchecked Failed [20] Unchecked
+HDR_013 Summary of the checklist item
+№7
+Passed but [21] Passed but [22] Unchecked Passed but [23] Unchecked
+HDR_014 Summary of the checklist item
+№8
+Passed Passed Unchecked Passed but [24] Unchecked
+HDR_015 Summary of the checklist item Passed Passed Unchecked Passed Unchecked
+Section 2
+FTR_001 Summary of the checklist item Passed Unchecked Unchecked Unchecked Unchecked
+FTR_002 Summary of the checklist item Passed Unchecked Unchecked Unchecked Unchecked
+FTR_003 Summary of the checklist item Passed Unchecked Unchecked Unchecked Unchecked
+FTR_004 Summary of the checklist item Passed Unchecked Unchecked Unchecked Unchecked
+FTR_005 Summary of the checklist item Passed Unchecked Unchecked Unchecked Unchecked
+Test Cases                                                                                                        Test Cases
++1 310 388 93 34 Olympic Blvd, Beverly Hills, CA 90211, USA
+№ Summary Preconditions Test steps Test data Expected result Issues Comment
+Device / 
+Browser
+Device / 
+Browser
+Device / 
+Browser
+Device / 
+Browser
+Device / 
+Browser
+Build / Version Build / Version Build / Version Build / Version Build / Version 
+Tester name Tester name Tester name Tester name Tester name
+Section 1 (e.g. Header)
+SC1_001
+Verify that User is redirected to the 
+Test page after clicking the 
+appropriate button from the main 
+menu
+1. Open the site
+2. Click the "Test" button from 
+the main menu
+3. Pay attention to the page The Test page is opened
+Number of issue or issue link in 
+bugtracking system if test case 
+failed/blocked or has status 
+Passed but Passed Passed Passed Passed Passed
+SC1_002 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description №1 Passed Passed Passed but [25] Passed but [26] Passed but [27]
+SC1_003 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description
+№2
+№3 Additional info Passed but [28] Passed but [29] Failed [30] Failed [31] Passed but [32]
+SC1_004 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description unable to check due to №4 Blocked [33] Blocked [34] Blocked [35] Blocked [36] Blocked [37]
+SC1_005 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description №5 Passed Passed Passed Passed Failed [38]
+SC1_006 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description №6 Additional info Passed but [39] Passed but [40] Passed Passed Passed
+Section 2
+SC2_001 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description Unchecked Unchecked Unchecked Unchecked Unchecked
+SC2_002 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description Unchecked Unchecked Unchecked Unchecked Unchecked
+SC2_003 Test case summary
+Preconditions if 
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if 
+needed Expected behavior description Unchecked Unchecked Unchecked Unchecked Unchecked
+SC2_004
+SC2_005
+Passed
+No defects were found after 
+passing the test case
+Failed
+Defects were found in the main 
+functionality of the test case 
+(Actual result does not match the 
+Expected result)
+Passed but
+Defects were found in the related 
+functionality of the test case (e.g. 
+low layout issue)
+Blocked
+The test cases can not be tested 
+because the functionality cannot 
+be reached due to some defect
+Unchecked The test case is untested
+List of issues
++1 310 388 93 34 Olympic Blvd, Beverly Hills, CA 90211, USA
+Coverage completion table (Checklist)
+Device Device/Browser 1 Device/Browser 2 Device/Browser 3 Device/Browser 4 Device/Browser 5
+Overall # checks 20 20 20 20 20
+Remaining 0 5 11 5 15
+Percentage 100.00% 75.00% 45.00% 75.00% 25.00%
+Test execution summary by platforms (Checklist)
+Device Device/Browser 1 Device/Browser 2 Device/Browser 3 Device/Browser 4 Device/Browser 5
+Pass 14 9 6 8 3
+Fail 3 3 1 2 0
+Pass but 2 2 1 4 2
+Blocked 1 1 1 1 0
+Issues summary
+Issues by Platform Defect type Status (for dev team) Defect severity
+Type # Type # Status # Severity #
+Web 1 Functional 1 Open 1 Blocker [41] 1
+Desktop 1 UI 1 By design 1 Critical [42] 1
+Mobile 1 UX 1 Reopen 1 Major [43] 1
+All platforms 1 Enhancement 1 Fixed 1 Minor [44] 1
+Need more info 1 Low [45] 1
+Closed 1
+Duplicate 1
+Test Metrix
++1 310 388 93 34 Olympic Blvd, Beverly Hills, CA 90211, USA
+Bug 
+# Summary Platform Environment
+Steps to reproduce and 
+results Defect type Defect severity Attachment Tester Additional info Status
+QA comment after 
+bug recheck
+Attachment
+after recheck
+DD/MM/YY
+1 Bug report summary Web
+Win 10 / Chrome
+Win 10 / Firefox Mouseover to see [46] Functional Blocker
+Attachment
+Open
+Attachment
+Attachment Attachment
+2 Bug report summary Mobile Pixel N1 / Android 9 Mouseover to see [47] UI Critical
+Attachment
+Duplicate
+Attachment
+Attachment Attachment
+3 Bug report summary Desktop
+Win 10 / Chrome
+Win 10 / Firefox
+Pixel N1 / Android 9 Mouseover to see [48] UX Major
+Attachment
+Closed
+Attachment
+Attachment Attachment
+4 Bug report summary All platforms Unchecked Mouseover to see [49] Enhancement Minor
+Attachment
+By design
+Attachment
+Attachment Attachment
+5 Unchecked Unchecked Mouseover to see [50] Unchecked Low
+Attachment
+Reopen
+Attachment
+Attachment Attachment
+6 Unchecked Unchecked Mouseover to see [51] Unchecked Unchecked
+Attachment
+Fixed
+Attachment
+Attachment Attachment
+7 Unchecked Unchecked Mouseover to see [52] Unchecked Unchecked
+Attachment
+Need more info
+Attachment
+Attachment Attachment
+8 Unchecked Unchecked Mouseover to see [53] Unchecked Unchecked
+Attachment
+Unchecked
+Attachment
+Attachment Attachment
+9 Unchecked Unchecked Mouseover to see [54] Unchecked Unchecked
+Attachment
+Unchecked
+Attachment
+Attachment Attachment
+10 Unchecked Unchecked Mouseover to see [55] Unchecked Unchecked
+Attachment
+Unchecked
+Attachment
+Attachment Attachment
+DD/MM/YY
+11 Unchecked Unchecked Mouseover to see [56] Unchecked Unchecked
+Attachment
+Unchecked
+Attachment
+Attachment Attachment
+12 Unchecked Unchecked Mouseover to see [57] Unchecked Unchecked
+Attachment
+Unchecked
+Attachment
+Attachment Attachment
+13 Unchecked Unchecked Mouseover to see [58] Unchecked Unchecked
+Attachment
+Unchecked
+Attachment
+Attachment Attachment
+Test Plan
+1 Introduction
+The Test Plan has been created to communicate the test approach to team members. It includes the objectives, scope, schedule, risks and approach. This document will 
+clearly identify what the test deliverables will be and what is deemed in and out of scope.
+1.1 Objectives
+The main objective of testing is to: assure that the system meets the full requirements, including quality requirements (functional and non-functional requirements) and fit 
+metrics for each quality requirement and satisfies the use case scenarios and maintain the quality of the product. At the end of the project development cycle, the user 
+should find that the project has met or exceeded all of their expectations as detailed in the requirements.
+Any changes, additions, or deletions to the requirements document, Functional Specification, or Design Specification will be documented and tested at the highest level of 
+quality allowed within the remaining time of the project and within the ability of the test team.
+The secondary objectives of testing will be to: identify all issues and associated risks, communicate all known issues to the project team, and ensure that all issues are 
+addressed in an appropriately before release. 
+1.2 Team Members
+Role Responsibilities Staff Member
+Project
+Manager
+1. Acts as a primary contact for development and QA
+team.
+2. Responsible for Project schedule and the overall
+success of the project.
+QA Lead
+1. Participation in the project plan creation/update process.
+2. Planning and organization of test process for the 
+release.
+3. Coordinate with QA analysts/engineers on any
+issues/problems encountered during testing.
+4. Report progress on work assignments to the PM
+QA
+1. Understand requirements
+2. Writing and executing Test cases
+3. Preparing RTM
+4. Reviewing Test cases, RTM
+5. Defect reporting and tracking
+6. Defects rechecking and regression testing
+7. Preparation of Test Data
+8. Coordinate with QA Lead for any issues or problems 
+encountered during test preparation/execution/defect 
+handling.
+2 Scope
+2.1 In Scope
+The <system name> Test Plan defines the unit, integration, system, regression, and Client Acceptance testing approach.  
+The test scope includes the following:
+    • Testing of all functional, application performance, security and use cases requirements listed in the Use Case document.
+    • Quality requirements and fit metrics <system name>.
+    • End-to-end testing and testing of interfaces of all systems that interact with the <system name>.
+2.1 Out of Scope
+The following are considered out of scope for the Test Plan of the <system name> system and testing scope:
+    • Functional requirements testing for systems outside <application name>                                        
+    • Testing of Business SOPs, disaster recovery and Business Continuity Plan.
+3 Assumptions / Risks
+3.1 Assumptions
+This section lists assumptions that are made specific to this project:
+    • Business analyst and development team members will be available to provide support, training and defect resolution to the test team members 
+as required.
+3.2 Risks
+The following risks have been identified and the appropriate action identified to mitigate their impact on the project. The impact (or severity) of the risk is based on how the 
+project would be affected if the risk was triggered. The trigger is the event, which would cause the risk to become an issue to be dealt with.
+# Risk Severity Trigger Mitigation Plan
+1 Scope Creep – as testers become more 
+familiar with the tool, they will want more 
+functionality
+High Delays in implementation date Each iteration, functionality will be closely 
+monitored. Priorities will be set and discussed by 
+stakeholders.  All additional out of scope activities 
+will be documented.
+2 Changes to the functionality may require 
+additional time because the already written 
+test cases may become irrelevant
+Medium Big changes in the 
+requirements
+To estimate additional functionality separately and 
+add it to the Test Plan with all artifacts (additional 
+resources should be needed).
+3 Weekly delivery is not possible because the 
+developer/QA engireer should urgently 
+work on another project or got sick.
+Medium Product did not get delivered 
+on schedule
+Replacement of the team members should be 
+included in the plan before the project starts or 
+immediately after its launch.
+4 Test Approach
+The project is using an agile approach, with weekly iterations. At the end of each week the requirements identified for that iteration will be delivered to the team and will be 
+tested.The project is using an agile approach, with weekly iterations. At the end of each week the requirements identified for that iteration will be delivered to the team and 
+will be tested.
+Test cases will be created during exploratory testing.
+Team also must use experience-based testing and error guessing using skills and intuition, along with the experience with similar applications or technologies.
+4.1 Test Automation
+Automated unit tests are part of the development process, but no automated functional tests are planned at this time.
+5 Test Environment
+As testing Environment, it was decided to test the Application on:
+    • Google Pixel (Android 9)
+    • Samsung Galaxy S8 (Android 8)
+    • iPad Air (iOS 11.3.1)
+    • iPhone X (iOS 12.0.1)
+    • Windows 10 / Chrome 71
+    • Windows 10 / Firefox 64
+    • MacOS 10.13 / Safari 11.1.2
+as far as these combinations are the representatives of Android and iOS versions with different screen resolutions and most popular desktop 
+browsers.
+The special test tools that are required:
+    • Charles
+    • Fake location tool
+Other testing needs:
+    • Bluetooth headset
+6 Milestones / Deliverables
+6.1 Test Schedule
+Test schedule is described in the table.
+Task Name Start Finish Effort Comments
+Review Requirements documents 1 d
+Creating the testing documentation 2 d
+Functional testing + Compatibility testing 10 d
+Bug reporting
+Deploy to QA test environment
+Bug rechecking
+Regression testing
+Resolution of final defects
+6.2 Deliverables
+Deliverable For Date / Milestone
+Test Plan Project Manager; QA 
+Lead
+Checklist All team members
+Test Cases All team members
+Traceability Matrix Project Manager; QA 
+Lead
+Bug reports All team members
+Test Metrics All team members
+Final Reports Project Manager; QA 
+Lead
+7 TEST STRATEGY
+7.1 QA role in test process
+- Understanding Requirements:
+• Requirement specifications will be sent by client.
+• Understanding of requirements will be done by QA.
+- Preparing Test Cases:
+QA will be preparing test cases based on the exploratory testing. This will cover all scenarios for requirements.
+- Preparing Test Matrix:
+QA will be preparing test matrix which maps test cases to respective requirement. This will ensure the coverage for requirements.
+- Reviewing test cases and matrix:
+• Peer review will be conducted for test cases and test matrix by QA Lead.
+• Any comments or suggestions on test cases and test coverage will be provided by reviewer.
+• Suggestions or improvements will be re-worked by author and will be send for approval.
+• Re-worked improvements will be reviewed and approved by reviewer.
+- Creating Test Data:
+Test data will be created by respective QA on client's developments/test site based on scenarios and Test cases.
+- Executing Test Cases:
+• Test cases will be executed by respective QA on client's development/test site based on designed scenarios, test cases and test data.
+• Test result (Actual Result, Pass/Fail/Pass but/Blocked) will updated in test case document: QA will be logging the defect/bugs to the Bug tracking system. After this, QA 
+will inform respective developer about the defect/bugs.
+- Retesting and Regression Testing:
+Retesting for fixed bugs will be done by respective QA once it is resolved by respective developer and bug/defect status will be updated accordingly. The regression testing 
+will be done after the bug recheck.
+7.2 Testing types
+Functional Testing:
+Testing conducted to evaluate the compliance of a component or system with functional requirements.
+GUI Testing:
+GUI testing will includes testing the UI part of the system. It covers layout, error messages, spelling mistakes, GUI guideline violations.
+Regression testing:
+Testing of a previously tested component or system following modification to ensure that defects have not been introduced or have been uncovered in unchanged areas of 
+the software, as a result of the changes made.
+Usability testing:
+Testing to evaluate the degree to which the system can be used by specified users with effectiveness, efficiency and satisfaction in a specified context of use.
+7.3 Bug Severity Definition
+The bug Severity levels will be defined as outlined in the following table below. Testing will assign a severity level to all bugs. The Test Lead will be responsible to see 
+that a correct severity level is assigned to each bug.
+The QA Lead and Project Manager will participate in bug review meetings to assign the priority of all currently active bugs.
+Severity ID Severity Severity description
+1 Blocker
+This defect blocks a feature and doesn't allow to test/check 
+functionality
+2 Critical
+It is a highly severe defect and collapses the system. 
+However, certain parts of the system remain functional.
+3 Major
+The failed function is unusable but there exists an 
+acceptable alternative method to achieve the required 
+results
+4 Minor
+The defect that does not result in the termination and does 
+not damage the usability of the system
+5 Low
+It won't cause any major break-down of the system, 
+mainly cosmetic issue
+Malta, USA, Ukraine                                  Phone: +1 310 388 93 34
+Website: https://testfort.com/                                  Email: contacts@testfort.com
+
+===== sample.xlsx =====
+Name	Age	
+Alice	30.0	
+Bob	25.0	
+
+===== sample.xml =====
+<root><message>Hello XML</message>
+</root>
+
+===== sample.html =====
+Sample HTML This is a sample HTML file.
+===== sample.pdf =====
+=== Test Report Summary ===
+Test Case: SC1_001
+Status: Passed but
+Note: Number of issue or issue link in
+
+Test Case: SC1_002 Test case summary
+Status: Passed
+
+Test Case: SC1_003 Test case summary
+Status: Passed but
+
+Test Case: SC1_004 Test case summary
+Status: Blocked
+
+Test Case: SC1_005 Test case summary
+Status: Passed
+
+Test Case: SC1_006 Test case summary
+Status: Passed but
+
+Test Case: SC2_001 Test case summary
+Status: Unchecked
+
+Test Case: SC2_002 Test case summary
+Status: Unchecked
+
+Test Case: SC2_003 Test case summary
+Status: Unchecked
+
+Test Case: SC2_004
+Status: Unknown
+
+Test Case: SC2_005
+Status: failed
+Note: mainly cosmetic issue
+
+
+===== sample.xlsx =====
+Name	Age	
+Alice	30.0	
+Bob	25.0	
+
+===== sample.xml =====
+<root><message>Hello XML</message>
+</root>
+
+===== sample.html =====
+Sample HTML This is a sample HTML file.
+===== sample.pdf =====
+🧪 SC1_001
+SC1_001
+Verify that User is redirected to the
+Test page after clicking the
+appropriate button from the main
+menu
+1. Open the site
+2. Click the "Test" button from
+the main menu
+3. Pay attention to the page The Test page is opened
+Number of issue or issue link in
+bugtracking system if test case
+failed/blocked or has status
+Passed but Passed Passed Passed Passed Passed
+✅ Status: Passed
+
+
+🧪 SC1_002
+SC1_002 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description №1 Passed Passed Passed but [25] Passed but [26] Passed but [27]
+✅ Status: Passed
+
+
+🧪 SC1_003
+SC1_003 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description
+№2
+№3 Additional info Passed but [28] Passed but [29] Failed [30] Failed [31] Passed but [32]
+✅ Status: Passed
+
+
+🧪 SC1_004
+SC1_004 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description unable to check due to №4 Blocked [33] Blocked [34] Blocked [35] Blocked [36] Blocked [37]
+✅ Status: Blocked
+
+
+🧪 SC1_005
+SC1_005 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description №5 Passed Passed Passed Passed Failed [38]
+✅ Status: Passed
+
+
+🧪 SC1_006
+SC1_006 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description №6 Additional info Passed but [39] Passed but [40] Passed Passed Passed
+✅ Status: Passed
+Section 2
+
+
+🧪 SC2_001
+SC2_001 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description Unchecked Unchecked Unchecked Unchecked Unchecked
+✅ Status: Unchecked
+
+
+🧪 SC2_002
+SC2_002 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description Unchecked Unchecked Unchecked Unchecked Unchecked
+✅ Status: Unchecked
+
+
+🧪 SC2_003
+SC2_003 Test case summary
+Preconditions if
+needed
+1. Test step
+2. Test step
+3. Test step
+4. Test step
+Test data if
+needed Expected behavior description Unchecked Unchecked Unchecked Unchecked Unchecked
+✅ Status: Unchecked
+
+
+🧪 SC2_004
+SC2_004
+
+
+🧪 SC2_005
+SC2_005
+Passed
+✅ Status: Passed
+No defects were found after
+passing the test case
+Failed
+✅ Status: Failed
+Defects were found in the main
+functionality of the test case
+(Actual result does not match the
+Expected result)
+Passed but
+✅ Status: Passed
+Defects were found in the related
+functionality of the test case (e.g.
+low layout issue)
+Blocked
+✅ Status: Blocked
+The test cases can not be tested
+because the functionality cannot
+be reached due to some defect
+Unchecked The test case is untested
+✅ Status: Unchecked
+List of issues
++1 310 388 93 34 Olympic Blvd, Beverly Hills, CA 90211, USA
+Coverage completion table (Checklist)
+Device Device/Browser 1 Device/Browser 2 Device/Browser 3 Device/Browser 4 Device/Browser 5
+Overall # checks 20 20 20 20 20
+Remaining 0 5 11 5 15
+Percentage 100.00% 75.00% 45.00% 75.00% 25.00%
+Test execution summary by platforms (Checklist)
+Device Device/Browser 1 Device/Browser 2 Device/Browser 3 Device/Browser 4 Device/Browser 5
+Pass 14 9 6 8 3
+Fail 3 3 1 2 0
+Pass but 2 2 1 4 2
+Blocked 1 1 1 1 0
+✅ Status: Blocked
+Issues summary
+Issues by Platform Defect type Status (for dev team) Defect severity
+Type # Type # Status # Severity #
+Web 1 Functional 1 Open 1 Blocker [41] 1
+Desktop 1 UI 1 By design 1 Critical [42] 1
+Mobile 1 UX 1 Reopen 1 Major [43] 1
+All platforms 1 Enhancement 1 Fixed 1 Minor [44] 1
+Need more info 1 Low [45] 1
+Closed 1
+Duplicate 1
+Test Metrix
++1 310 388 93 34 Olympic Blvd, Beverly Hills, CA 90211, USA
+Bug
+# Summary Platform Environment
+Steps to reproduce and
+results Defect type Defect severity Attachment Tester Additional info Status
+QA comment after
+bug recheck
+Attachment
+after recheck
+DD/MM/YY
+1 Bug report summary Web
+Win 10 / Chrome
+Win 10 / Firefox Mouseover to see [46] Functional Blocker
+Attachment
+Open
+Attachment
+Attachment Attachment
+2 Bug report summary Mobile Pixel N1 / Android 9 Mouseover to see [47] UI Critical
+Attachment
+Duplicate
+Attachment
+Attachment Attachment
+3 Bug report summary Desktop
+Win 10 / Chrome
+Win 10 / Firefox
+Pixel N1 / Android 9 Mouseover to see [48] UX Major
+Attachment
+Closed
+Attachment
+Attachment Attachment
+4 Bug report summary All platforms Unchecked Mouseover to see [49] Enhancement Minor
+✅ Status: Unchecked
+Attachment
+By design
+Attachment
+Attachment Attachment
+5 Unchecked Unchecked Mouseover to see [50] Unchecked Low
+✅ Status: Unchecked
+Attachment
+Reopen
+Attachment
+Attachment Attachment
+6 Unchecked Unchecked Mouseover to see [51] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Fixed
+Attachment
+Attachment Attachment
+7 Unchecked Unchecked Mouseover to see [52] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Need more info
+Attachment
+Attachment Attachment
+8 Unchecked Unchecked Mouseover to see [53] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Unchecked
+✅ Status: Unchecked
+Attachment
+Attachment Attachment
+9 Unchecked Unchecked Mouseover to see [54] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Unchecked
+✅ Status: Unchecked
+Attachment
+Attachment Attachment
+10 Unchecked Unchecked Mouseover to see [55] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Unchecked
+✅ Status: Unchecked
+Attachment
+Attachment Attachment
+DD/MM/YY
+11 Unchecked Unchecked Mouseover to see [56] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Unchecked
+✅ Status: Unchecked
+Attachment
+Attachment Attachment
+12 Unchecked Unchecked Mouseover to see [57] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Unchecked
+✅ Status: Unchecked
+Attachment
+Attachment Attachment
+13 Unchecked Unchecked Mouseover to see [58] Unchecked Unchecked
+✅ Status: Unchecked
+Attachment
+Unchecked
+✅ Status: Unchecked
+Attachment
+Attachment Attachment
+Test Plan
+1 Introduction
+The Test Plan has been created to communicate the test approach to team members. It includes the objectives, scope, schedule, risks and approach. This document will
+clearly identify what the test deliverables will be and what is deemed in and out of scope.
+1.1 Objectives
+The main objective of testing is to: assure that the system meets the full requirements, including quality requirements (functional and non-functional requirements) and fit
+metrics for each quality requirement and satisfies the use case scenarios and maintain the quality of the product. At the end of the project development cycle, the user
+should find that the project has met or exceeded all of their expectations as detailed in the requirements.
+Any changes, additions, or deletions to the requirements document, Functional Specification, or Design Specification will be documented and tested at the highest level of
+quality allowed within the remaining time of the project and within the ability of the test team.
+The secondary objectives of testing will be to: identify all issues and associated risks, communicate all known issues to the project team, and ensure that all issues are
+addressed in an appropriately before release.
+1.2 Team Members
+Role Responsibilities Staff Member
+Project
+Manager
+1. Acts as a primary contact for development and QA
+team.
+2. Responsible for Project schedule and the overall
+success of the project.
+QA Lead
+1. Participation in the project plan creation/update process.
+2. Planning and organization of test process for the
+release.
+3. Coordinate with QA analysts/engineers on any
+issues/problems encountered during testing.
+4. Report progress on work assignments to the PM
+QA
+1. Understand requirements
+2. Writing and executing Test cases
+3. Preparing RTM
+4. Reviewing Test cases, RTM
+5. Defect reporting and tracking
+6. Defects rechecking and regression testing
+7. Preparation of Test Data
+8. Coordinate with QA Lead for any issues or problems
+encountered during test preparation/execution/defect
+handling.
+2 Scope
+2.1 In Scope
+The <system name> Test Plan defines the unit, integration, system, regression, and Client Acceptance testing approach.
+The test scope includes the following:
+• Testing of all functional, application performance, security and use cases requirements listed in the Use Case document.
+• Quality requirements and fit metrics <system name>.
+• End-to-end testing and testing of interfaces of all systems that interact with the <system name>.
+2.1 Out of Scope
+The following are considered out of scope for the Test Plan of the <system name> system and testing scope:
+• Functional requirements testing for systems outside <application name>
+• Testing of Business SOPs, disaster recovery and Business Continuity Plan.
+3 Assumptions / Risks
+3.1 Assumptions
+This section lists assumptions that are made specific to this project:
+• Business analyst and development team members will be available to provide support, training and defect resolution to the test team members
+as required.
+3.2 Risks
+The following risks have been identified and the appropriate action identified to mitigate their impact on the project. The impact (or severity) of the risk is based on how the
+project would be affected if the risk was triggered. The trigger is the event, which would cause the risk to become an issue to be dealt with.
+# Risk Severity Trigger Mitigation Plan
+1 Scope Creep – as testers become more
+familiar with the tool, they will want more
+functionality
+High Delays in implementation date Each iteration, functionality will be closely
+monitored. Priorities will be set and discussed by
+stakeholders.  All additional out of scope activities
+will be documented.
+2 Changes to the functionality may require
+additional time because the already written
+test cases may become irrelevant
+Medium Big changes in the
+requirements
+To estimate additional functionality separately and
+add it to the Test Plan with all artifacts (additional
+resources should be needed).
+3 Weekly delivery is not possible because the
+developer/QA engireer should urgently
+work on another project or got sick.
+Medium Product did not get delivered
+on schedule
+Replacement of the team members should be
+included in the plan before the project starts or
+immediately after its launch.
+4 Test Approach
+The project is using an agile approach, with weekly iterations. At the end of each week the requirements identified for that iteration will be delivered to the team and will be
+tested.The project is using an agile approach, with weekly iterations. At the end of each week the requirements identified for that iteration will be delivered to the team and
+will be tested.
+Test cases will be created during exploratory testing.
+Team also must use experience-based testing and error guessing using skills and intuition, along with the experience with similar applications or technologies.
+4.1 Test Automation
+Automated unit tests are part of the development process, but no automated functional tests are planned at this time.
+5 Test Environment
+As testing Environment, it was decided to test the Application on:
+• Google Pixel (Android 9)
+• Samsung Galaxy S8 (Android 8)
+• iPad Air (iOS 11.3.1)
+• iPhone X (iOS 12.0.1)
+• Windows 10 / Chrome 71
+• Windows 10 / Firefox 64
+• MacOS 10.13 / Safari 11.1.2
+as far as these combinations are the representatives of Android and iOS versions with different screen resolutions and most popular desktop
+browsers.
+The special test tools that are required:
+• Charles
+• Fake location tool
+Other testing needs:
+• Bluetooth headset
+6 Milestones / Deliverables
+6.1 Test Schedule
+Test schedule is described in the table.
+Task Name Start Finish Effort Comments
+Review Requirements documents 1 d
+Creating the testing documentation 2 d
+Functional testing + Compatibility testing 10 d
+Bug reporting
+Deploy to QA test environment
+Bug rechecking
+Regression testing
+Resolution of final defects
+6.2 Deliverables
+Deliverable For Date / Milestone
+Test Plan Project Manager; QA
+Lead
+Checklist All team members
+Test Cases All team members
+Traceability Matrix Project Manager; QA
+Lead
+Bug reports All team members
+Test Metrics All team members
+Final Reports Project Manager; QA
+Lead
+7 TEST STRATEGY
+7.1 QA role in test process
+- Understanding Requirements:
+• Requirement specifications will be sent by client.
+• Understanding of requirements will be done by QA.
+- Preparing Test Cases:
+QA will be preparing test cases based on the exploratory testing. This will cover all scenarios for requirements.
+- Preparing Test Matrix:
+QA will be preparing test matrix which maps test cases to respective requirement. This will ensure the coverage for requirements.
+- Reviewing test cases and matrix:
+• Peer review will be conducted for test cases and test matrix by QA Lead.
+• Any comments or suggestions on test cases and test coverage will be provided by reviewer.
+• Suggestions or improvements will be re-worked by author and will be send for approval.
+• Re-worked improvements will be reviewed and approved by reviewer.
+- Creating Test Data:
+Test data will be created by respective QA on client's developments/test site based on scenarios and Test cases.
+- Executing Test Cases:
+• Test cases will be executed by respective QA on client's development/test site based on designed scenarios, test cases and test data.
+• Test result (Actual Result, Pass/Fail/Pass but/Blocked) will updated in test case document: QA will be logging the defect/bugs to the Bug tracking system. After this, QA
+✅ Status: Blocked
+will inform respective developer about the defect/bugs.
+- Retesting and Regression Testing:
+Retesting for fixed bugs will be done by respective QA once it is resolved by respective developer and bug/defect status will be updated accordingly. The regression testing
+will be done after the bug recheck.
+7.2 Testing types
+Functional Testing:
+Testing conducted to evaluate the compliance of a component or system with functional requirements.
+GUI Testing:
+GUI testing will includes testing the UI part of the system. It covers layout, error messages, spelling mistakes, GUI guideline violations.
+Regression testing:
+Testing of a previously tested component or system following modification to ensure that defects have not been introduced or have been uncovered in unchanged areas of
+the software, as a result of the changes made.
+Usability testing:
+Testing to evaluate the degree to which the system can be used by specified users with effectiveness, efficiency and satisfaction in a specified context of use.
+7.3 Bug Severity Definition
+The bug Severity levels will be defined as outlined in the following table below. Testing will assign a severity level to all bugs. The Test Lead will be responsible to see
+that a correct severity level is assigned to each bug.
+The QA Lead and Project Manager will participate in bug review meetings to assign the priority of all currently active bugs.
+Severity ID Severity Severity description
+1 Blocker
+This defect blocks a feature and doesn't allow to test/check
+functionality
+2 Critical
+It is a highly severe defect and collapses the system.
+However, certain parts of the system remain functional.
+3 Major
+The failed function is unusable but there exists an
+acceptable alternative method to achieve the required
+results
+4 Minor
+The defect that does not result in the termination and does
+not damage the usability of the system
+5 Low
+It won't cause any major break-down of the system,
+mainly cosmetic issue
+Malta, USA, Ukraine                                  Phone: +1 310 388 93 34
+Website: https://testfort.com/                                  Email: contacts@testfort.com
+
+
+===== sample.xlsx =====
+Name	Age	
+Alice	30.0	
+Bob	25.0	
+
+===== sample.xml =====
+<root><message>Hello XML</message>
+</root>
+
